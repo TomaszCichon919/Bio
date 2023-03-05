@@ -1,0 +1,182 @@
+
+h1
+{
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', sans-serif;
+font-size: 90px;
+color: #66BFBF;
+line-height: 2;
+}
+h2
+{
+font-family: 'Montserrat', sans-serif;
+font-size: 3rem;
+color: #66BFBF;
+font-weight: normal;
+padding-bottom: 10px;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #119993;
+}
+p 
+{
+line-height: 2;
+}
+body
+{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+.pro
+{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.top
+{
+    background-color: #6096B4;
+    padding-top: 100px;
+    position: relative;
+}
+
+.cloud-top
+{
+    position:absolute;
+    top: 30px;
+    right: 300px
+}
+.cloud-bottom
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.cloud-middle
+{
+    position: absolute;
+    right: 180px;
+    top: 220px;
+}
+.cloud-top-left
+{
+    position: absolute;
+    left: 150px;
+    margin: 0;
+}
+.skill-row
+{
+    display: inline-block;
+
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    
+}
+.picture1
+{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right:  30px;
+}
+.picture2
+{
+
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left:  30px;
+}
+.laptop
+{
+    height: 500px;
+    border-radius: 20%;
+}
+.profile
+{
+    background-color: #6096B4;
+}
+.bird
+{
+    height: 50px;
+    position: absolute;
+    left: 200px;
+    top: 600px;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #EAF6F6;
+    font-size: 20px;
+    background: #BDCDD6;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 20px
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .contact-me
+  {
+    padding: 50px;
+    line-height: 2;
+  }
+  .bottom-container
+  {
+    background-color: #93BFCF;
+    padding: 80px;
+  }
+  .footer-link
+  {
+    color: #119993;
+    margin-left: 20px;
+  }
+  .signature
+  {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  hr
+  {
+    border-style: dotted none none none;
+    width: 30%;
+    height: 0%;
+    border-width: 20px;
+    border-color: #EAF6F6;
+    margin: 50px auto;
+  }
+  .intro
+  {
+    width: 30%;
+    margin:auto
+  }
+  .contact-message
+  {
+    width: 30%;
+    margin: 40px auto;
+  }
+  a
+  {
+    text-decoration: none;
+
+  }
+  a:hover
+  {
+    color: #EAF6F6;
+  }
